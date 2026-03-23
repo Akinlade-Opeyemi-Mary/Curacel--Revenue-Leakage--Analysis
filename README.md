@@ -68,8 +68,92 @@ The dataset contains transaction-level data including pricing, discounts, billin
 - **DAX (Data Analysis Expressions)** → Creation of calculated columns and measures (e.g., revenue leakage, discount rate, KPIs)  
 - **Data Modeling** → Relationship building between tables (e.g., Date table and transaction data)  
 - **PowerPoint** → Dashboard wireframing and executive storytelling  
-- **GitHub** → Documentation, version control, and portfolio presentation  
+- **GitHub** → Documentation, version control, and portfolio presentation
+  
+---
+
+# Executive Dashboards & Analysis
+
+This section highlights the key dashboards developed to analyze revenue performance, identify leakage drivers, and provide actionable insights to improve profitability at Curacel.
 
 ---
 
+## 1. Revenue Leakage Dashboard
+
+**Objective:** Identify where revenue is being lost and quantify the overall impact on business performance.
+
+**Key Insights:**
+
+- Total Expected Revenue: £556K  
+- Total Actual Revenue: £528K  
+- Total Revenue Leakage: £14K  
+- Revenue Leakage Rate: 2% of expected revenue  
+- Customers with Leakage: 475 customers affected  
+
+**Leakage by Product / Service:**
+
+- Service D contributes the highest revenue leakage  
+- Leakage is concentrated in specific services, indicating process inefficiencies  
+
+**Billing Error Impact:**
+
+- 100% of revenue leakage is linked to billing errors  
+- No significant evidence that discounts are driving revenue loss  
+
+**Takeaway:**  
+Revenue leakage is primarily driven by internal billing inefficiencies rather than pricing strategy, indicating an operational issue that affects multiple services.
+
+---
+
+## 2. Discount Effectiveness Dashboard
+
+**Objective:** Evaluate how discount strategies impact revenue and identify potential over-discounting.
+
+**Key Insights:**
+
+- Total Discount Given: £28K  
+- Average Discount Rate: 5%  
+
+**Discount Trend:**
+
+- Discount usage increased in 2023, indicating greater reliance on promotional pricing  
+
+**Discount by Product / Service:**
+
+- Service D receives the highest discounts  
+- Discount allocation is concentrated across specific services  
+
+**Discount vs Revenue Relationship:**
+
+- Higher discounts do not consistently generate higher revenue  
+- Indicates diminishing returns on excessive discounting  
+
+**Takeaway:**  
+Discounts are not the primary driver of revenue leakage; however, excessive discounting may reduce profitability without significantly increasing revenue.
+
+---
+
+## 3. Customer Segmentation Dashboard
+
+**Objective:** Analyze customer behavior to identify high-value segments, leakage exposure, and upselling opportunities.
+
+**Key Insights:**
+
+- Enterprise and SMB segments generate the highest revenue  
+- Revenue leakage is also concentrated within these high-value segments  
+
+**Usage vs Revenue Analysis:**
+
+- Large Enterprise customers show high usage but relatively low revenue contribution  
+- Indicates clear under-monetization  
+
+**Customer Value Distribution:**
+
+- Enterprise customers represent the most valuable segment  
+- Small Business segment contributes lower revenue and usage  
+
+**Takeaway:**  
+While high-value segments drive revenue, under-monetized customers—particularly Large Enterprise—present significant opportunities for upselling and revenue optimization.
+
+---
 This toolset enabled efficient data transformation, robust analytical modeling, and the development of interactive dashboards to uncover revenue leakage patterns, customer behavior insights, and opportunities for revenue optimization.
