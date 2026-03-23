@@ -157,3 +157,142 @@ While high-value segments drive revenue, under-monetized customers—particularl
 
 ---
 This toolset enabled efficient data transformation, robust analytical modeling, and the development of interactive dashboards to uncover revenue leakage patterns, customer behavior insights, and opportunities for revenue optimization.
+
+# Strategic Recommendations
+
+This section outlines actionable strategies to address revenue leakage, improve operational efficiency, and enhance overall revenue performance at Curacel.
+
+---
+
+## 1. Billing Process Optimization
+
+**Objective:** Eliminate revenue leakage caused by billing inefficiencies.
+
+**Recommendations:**
+
+- Implement automated billing validation checks to detect discrepancies before invoicing  
+- Introduce real-time billing error alerts to flag anomalies instantly  
+- Conduct periodic (monthly/quarterly) revenue reconciliation audits  
+- Reduce manual billing interventions to minimize human error  
+
+**Expected Impact:**  
+Improved billing accuracy, reduced revenue leakage, and stronger financial control.
+
+---
+
+## 2. Revenue Protection & Monitoring
+
+**Objective:** Prevent revenue loss through proactive monitoring and control systems.
+
+**Recommendations:**
+
+- Develop automated dashboards to track revenue leakage in real time  
+- Implement anomaly detection systems for unusual pricing or billing patterns  
+- Establish internal KPIs for revenue accuracy and leakage thresholds  
+- Create alerts for high-risk transactions and billing inconsistencies  
+
+**Expected Impact:**  
+Early detection of issues, faster resolution, and prevention of recurring revenue losses.
+
+---
+
+## 3. Pricing & Monetization Optimization
+
+**Objective:** Improve revenue capture from high-usage customer segments.
+
+**Recommendations:**
+
+- Review pricing structure for Large Enterprise customers to ensure alignment with usage  
+- Introduce tiered or usage-based pricing models for better revenue scalability  
+- Identify and target under-monetized customers for upselling opportunities  
+- Align pricing with value delivered to maximize revenue per customer  
+
+**Expected Impact:**  
+Increased revenue per customer and improved monetization of high-value segments.
+
+---
+
+## 4. Operational Standardization
+
+**Objective:** Address inconsistencies across services contributing to leakage.
+
+**Recommendations:**
+
+- Audit Service D billing workflows to identify process gaps  
+- Standardize billing logic across all products and services  
+- Implement centralized billing rules to ensure consistency  
+- Establish clear operational guidelines for pricing and invoicing  
+
+**Expected Impact:**  
+Reduced process variability, improved operational efficiency, and consistent revenue capture.
+
+---
+
+## 5. Customer Value Optimization
+
+**Objective:** Maximize customer lifetime value and reduce underperformance.
+
+**Recommendations:**
+
+- Segment customers based on usage and revenue contribution  
+- Design targeted upselling strategies for high-usage, low-revenue customers  
+- Monitor customer behavior to identify early signs of under-monetization  
+- Strengthen engagement strategies for high-value customer segments  
+
+**Expected Impact:**  
+Higher customer lifetime value, improved revenue growth, and better customer segmentation strategy.
+
+---
+
+## Strategic Outcome
+
+The implementation of the recommended strategies is expected to significantly improve Curacel’s revenue performance and operational efficiency.
+
+By addressing billing inefficiencies and strengthening revenue controls, the company can:
+
+- Recover approximately £14K in lost revenue annually  
+- Improve billing accuracy and reduce revenue leakage  
+- Enhance visibility into revenue performance across products and customer segments  
+- Increase revenue per customer through better monetization strategies  
+- Strengthen overall financial stability without increasing customer acquisition costs  
+
+These outcomes position Curacel to achieve more sustainable and predictable revenue growth.
+
+---
+
+## Key Strategic Insight
+
+The analysis reveals that revenue leakage at Curacel is not driven by pricing or discount strategies, but by internal operational inefficiencies—specifically billing errors.
+
+Additionally, certain high-usage customer segments, particularly Large Enterprise, are under-monetized, indicating missed opportunities for revenue optimization.
+
+This highlights a critical opportunity for Curacel to improve revenue performance by focusing on:
+
+- Strengthening billing systems  
+- Aligning pricing with customer usage  
+- Improving monetization of high-value segments  
+
+---
+
+## Conclusion
+
+This analysis demonstrates that revenue leakage at Curacel is primarily an operational issue rather than a market or pricing problem.
+
+While the leakage rate of 2% may appear small, its impact on profitability is significant when scaled across the business.
+
+By implementing data-driven improvements in billing processes, pricing strategies, and customer monetization, Curacel can:
+
+- Eliminate preventable revenue loss  
+- Improve operational efficiency  
+- Increase profitability without additional sales effort  
+
+Ultimately, addressing revenue leakage enables Curacel to maximize the value of its existing customer base while building a stronger foundation for long-term growth.
+
+
+## 👤 Author | Connect With Me
+
+**Akinlade Opeyemi Mary**  
+📊 Data Analyst | Business Intelligence | Credit Risk Analysis  
+
+🔗 **LinkedIn:** [Akinlade Opeyemi Mary](https://www.linkedin.com/in/opeyemiakinlademary)  
+📧 **Email:** akinladeopeyemi36@gmail.com
