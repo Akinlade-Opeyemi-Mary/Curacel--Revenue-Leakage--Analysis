@@ -73,9 +73,3 @@ The dataset contains transaction-level data including pricing, discounts, billin
 ---
 
 This toolset enabled efficient data transformation, robust analytical modeling, and the development of interactive dashboards to uncover revenue leakage patterns, customer behavior insights, and opportunities for revenue optimization.
-
-This toolset enabled effective data integration, performance analysis, and the development of actionable insights to support decision-making in improving UK rail network reliability.
-
----
-
-This toolset enabled effective data integration, performance analysis, and the development of actionable insights to support decision-making in improving UK rail network reliability.
