@@ -8,7 +8,7 @@ This analysis was conducted to identify where revenue leakage was occurring, unc
 
 Using Power BI, DAX, and data modeling techniques, multiple dashboards were developed to analyze revenue leakage trends, billing errors, discount effectiveness, and customer monetization behavior.
 
-The findings revealed that revenue leakage was primarily driven by **billing errors**, with no significant evidence linking discounts to revenue loss. Additionally, certain customer segments—particularly Large Enterprise—were identified as under-monetized, showing high product usage but relatively low revenue contribution.
+The findings revealed that revenue leakage was primarily driven by **billing errors**, with no significant evidence linking discounts to revenue loss. Additionally, certain customer segments particularly Large Enterprise were identified as under-monetized, showing high product usage but relatively low revenue contribution.
 
 Strategic recommendations were proposed to strengthen billing processes, implement automated validation systems, optimize pricing structures, and improve revenue capture across high-usage customer segments.
 
