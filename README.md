@@ -50,30 +50,29 @@ Several key business issues contributed to this challenge:
 
 These challenges highlighted the need for a structured, data-driven approach to identify leakage sources, improve billing accuracy, and optimize revenue performance across customer segments.
 
-## 3. Data Architecture & Tools
+#  Data Architecture & Tools
 
-### Data Source
+## Data Source:
+The dataset used for this analysis is available here:  
+[Curacel Revenue Dataset](https://docs.google.com/spreadsheets/d/1O4AN_i_aN00606H8ZvzI0zClW7pU-cgw/edit?usp=sharing&ouid=105443892095484323960&rtpof=true&sd=true)
 
-The dataset used for this analysis is available here:
-
-👉 [Download here](https://docs.google.com/spreadsheets/d/1O4AN_i_aN00606H8ZvzI0zClW7pU-cgw/edit?usp=sharing&ouid=105443892095484323960&rtpof=true&sd=true)
-
-This consolidated dataset includes Public Performance Measure (PPM) data, railway journey records, delay minutes by operator and cause, and cancellation statistics. These datasets were integrated to provide a comprehensive view of rail reliability from both operational and passenger perspectives.
+The dataset contains transaction-level data including pricing, discounts, billing status, customer segmentation, and usage metrics, which were used to analyze revenue leakage and customer behavior.
 
 ---
 
-### Tools and Technologies Used
+## Tools and Technologies Used:
 
-- **Microsoft Excel** → Initial data extraction, cleaning, and validation  
-- **Power BI** → Primary tool for data modelling, dashboard development, and visual analytics  
-- **Power Query** → Data transformation, cleaning, and feature engineering  
-- **DAX (Data Analysis Expressions)** → Creation of calculated measures and KPIs (PPM %, On-Time %, Delay Minutes, Cancellation Rate, Infrastructure Delay Share)  
-- **Data Modelling (Star Schema)** → Structuring fact tables and a central date dimension for consistent analysis  
-- **Power BI Visuals** → Interactive dashboards for reliability, root cause analysis, and impact assessment  
-- **PowerPoint / Wireframing** → Dashboard design and executive storytelling structure  
+- **Microsoft Excel** → Initial data exploration and validation  
+- **Power BI** → Primary tool for data analysis, modeling, and dashboard development  
+- **Power Query** → Data cleaning, transformation, and handling missing/invalid values  
+- **DAX (Data Analysis Expressions)** → Creation of calculated columns and measures (e.g., revenue leakage, discount rate, KPIs)  
+- **Data Modeling** → Relationship building between tables (e.g., Date table and transaction data)  
+- **PowerPoint** → Dashboard wireframing and executive storytelling  
 - **GitHub** → Documentation, version control, and portfolio presentation  
 
 ---
+
+This toolset enabled efficient data transformation, robust analytical modeling, and the development of interactive dashboards to uncover revenue leakage patterns, customer behavior insights, and opportunities for revenue optimization.
 
 This toolset enabled effective data integration, performance analysis, and the development of actionable insights to support decision-making in improving UK rail network reliability.
 
