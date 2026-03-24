@@ -288,6 +288,8 @@ By implementing data-driven improvements in billing processes, pricing strategie
 
 Ultimately, addressing revenue leakage enables Curacel to maximize the value of its existing customer base while building a stronger foundation for long-term growth.
 
+📸 **Preview:**
+![Revenue Leakage Dashboard](https://github.com/Akinlade-Opeyemi-Mary/Curacel--Revenue-Leakage--Analysis/blob/9d54c56a519322767fdce82d410184c319439a0a/REVENUE%20LEAKAGE%20DASHBORD.png)
 
 ## 👤 Author | Connect With Me
 
